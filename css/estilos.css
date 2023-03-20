@@ -1,0 +1,18 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo{
+    text-align: center;
+    background-color: blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+h3{
+    margin-left:2em;
+}
